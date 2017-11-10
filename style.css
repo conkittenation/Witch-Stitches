@@ -1,0 +1,64 @@
+/*style.css*/
+
+body {
+  background-color: #dab0d4; /*lavender*/
+  }
+#navBar {
+  overflow: hidden;
+  width: 100%;
+  display: inline-block;
+  float: left;
+}
+ul {
+  list-style: none;
+  display: inline-block;
+}
+li {
+  float: left;
+}
+.nav-button {
+  color: white;
+  font-family: Verdana, Arial;
+  font-size: 1em;
+  text-decoration: none;
+}
+#logo{
+  max-height: 10vw;
+  min-height: 90px;
+  align: left;
+}
+h1 {
+  margin-top: 3vw;
+  margin-left: 6vw;
+  margin-right: 6vw;
+  color: white;
+  font-family: Georgia, Helvetica;
+  font-size: 2em;
+}
+p {
+  margin-left: 6vw;
+  margin-right: 6vw;
+  color: white;
+  font-family: Verdana, Arial;
+  font-size: 14px;
+  }
+
+img {
+  overflow: none;
+  height: auto;
+  width: auto;
+  display: inline-block;
+  padding: 2vw;
+}
+  .contentImage {
+  max-width: 50vw;
+  min-width: 300px;
+  /*margin-left: 6vw;
+  margin-right: 6vw;*/
+}
+
+a {
+  padding: 1vw;
+  margin: 1vw;
+}
+
